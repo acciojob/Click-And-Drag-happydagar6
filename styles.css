@@ -37,6 +37,7 @@ body {
   perspective: 500px;
 }
 
+/* The test explicitly looks for this active class */
 .items.active {
   background: rgba(255,255,255,0.3);
   cursor: grabbing;
